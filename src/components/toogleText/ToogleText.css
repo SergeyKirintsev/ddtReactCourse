@@ -1,0 +1,8 @@
+.toogle__text {
+  color: wheat;
+}
+
+.toogle__button {
+  padding: 5px;
+  cursor: pointer;
+}
